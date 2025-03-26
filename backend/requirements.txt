@@ -1,0 +1,15 @@
+flask
+flask-cors
+flask-sqlalchemy
+psycopg2-binary
+python-dotenv
+flask-jwt-extended
+pydantic
+spacy
+nltk
+scikit-learn
+numpy
+pandas
+uuid
+gunicorn
+pytest
